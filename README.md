@@ -5,16 +5,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Java+Developer+%7C+Spring+Boot+%7C+React+%7C+MySQL+%7C+Docker;I+build+fast%2C+scalable%2C+clean+apps!" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final year student, B.E. in Information Science (85%)  
-- 💻 Java Developer focused on building scalable, backend-driven web applications  
-- 📈 Interested in Cloud, AI, Open Source & Backend Optimization  
+- 🎓 Recent graduate in Information Science (85%)  
+- 💻 Java Developer focused on scalable backend apps with Spring Boot  
+- ☁️ Cloud, AI/ML, and DevOps enthusiast  
 - ✍️ [LinkedIn Portfolio](https://www.linkedin.com/in/dhiraj-sardar-321574281/)  
-- 📫 Reach me: **sardardhiraj706@gmail.com**
+- 📫 Email: **sardardhiraj706@gmail.com**
 
 ---
 
@@ -39,15 +38,25 @@
 > 📌 Role-based system with student, teacher, and admin dashboards  
 > 📊 Boosted efficiency by 30%, reduced retrieval time by 40%
 
+![College Management System](https://via.placeholder.com/800x400.png?text=College+Management+System+UI)
+
+---
+
 #### 📄 Invoice Generator App
 > ⚛️ React + Tailwind + jsPDF  
 > 📥 Dynamic PDF generation, mobile responsive UI  
 > 📉 Cut manual errors by 50%
 
+![Invoice Generator App](https://via.placeholder.com/800x400.png?text=Invoice+Generator+Preview)
+
+---
+
 #### 🧠 NeuroVerse Web App
 > 🎨 React + Chart.js + Lazy Loading  
 > 📈 Real-time neuroscience dashboard  
 > 🔍 Improved user experience by 35% and reduced load time by 20%
+
+![NeuroVerse Web App](https://via.placeholder.com/800x400.png?text=NeuroVerse+Analytics+View)
 
 ---
 
@@ -76,7 +85,7 @@
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:sardardhiraj706@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
