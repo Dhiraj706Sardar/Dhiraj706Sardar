@@ -2,8 +2,9 @@
 <h3 align="center">🚀 A Passionate Java Backend Developer from Bengaluru, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=450&height=60&lines=Java+Developer+%7C+Spring+Boot+%7C+React+%7C+MySQL+%7C+Docker;I+build+fast%2C+scalable%2C+clean+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Java+Developer+%7C+Spring+Boot+%7C+React+%7C+MySQL+%7C+Docker;I+build+fast%2C+scalable%2C+clean+apps!" alt="Typing SVG" />
 </p>
+
 
 ---
 
