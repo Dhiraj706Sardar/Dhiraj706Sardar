@@ -38,7 +38,7 @@
 > 📌 Role-based system with student, teacher, and admin dashboards  
 > 📊 Boosted efficiency by 30%, reduced retrieval time by 40%
 
-![College Management System](https://via.placeholder.com/800x400.png?text=College+Management+System+UI)
+![College Management System](https://github.com/Dhiraj706Sardar/cms)
 
 ---
 
