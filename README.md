@@ -47,7 +47,7 @@
 > 📥 Dynamic PDF generation, mobile responsive UI  
 > 📉 Cut manual errors by 50%
 
-![Invoice Generator App](https://via.placeholder.com/800x400.png?text=Invoice+Generator+Preview)
+![Invoice Generator App](https://github.com/DhirajSardar/invoice-generator)
 
 ---
 
@@ -56,7 +56,7 @@
 > 📈 Real-time neuroscience dashboard  
 > 🔍 Improved user experience by 35% and reduced load time by 20%
 
-![NeuroVerse Web App](https://via.placeholder.com/800x400.png?text=NeuroVerse+Analytics+View)
+![NeuroVerse Web App](https://dhirajsardar.github.io/neuroverse-react-app/)
 
 ---
 
