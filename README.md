@@ -56,7 +56,7 @@
 > 📈 Real-time neuroscience dashboard  
 > 🔍 Improved user experience by 35% and reduced load time by 20%
 
-![NeuroVerse Web App](https://dhirajsardar.github.io/neuroverse-react-app/)
+ [NeuroVerse Web App] (https://dhirajsardar.github.io/neuroverse-react-app/)
 
 ---
 
