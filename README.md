@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Sardar</h1>
-<h3 align="center">🚀 A Passionate Backend Developer & DevOps Engineer from Bengaluru, India</h3>
+<h3 align="center">🚀 Backend Developer & DevOps Enthusiast from Bengaluru, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI+%7C+SQLAlchemy+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI+%7C+SQLAlchemy+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,10 +12,10 @@
 - 🎓 Completed B.E. in Information Science (2025)  
 - 👨‍💻 Backend Developer & DevOps Engineer skilled in **Java (Spring Boot), Python (FastAPI), Hibernate, SQL, SQLAlchemy, SQLite, PostgreSQL**  
 - 🔧 Experienced with **DevOps & CI/CD tools:** Docker, Kubernetes, Jenkins, Git, and automated pipelines  
-- 💡 Passionate about building scalable, performant backend systems and streamlining deployment workflows  
-- 🌱 Continuously expanding knowledge in Microservices architecture and advanced DevOps practices  
-- 🎮 Gaming enthusiast and tech trends follower  
-- 📫 Reach me at: **sardardhiraj706@gmail.com**  
+- 💡 Passionate about building scalable backend systems and streamlining deployment workflows  
+- 🌱 Exploring Microservices architecture and advanced DevOps practices  
+- 🎮 Gaming enthusiast | Tech trend follower  
+- 📫 Reach me: **sardardhiraj706@gmail.com**  
 - ✍️ [LinkedIn Portfolio](https://www.linkedin.com/in/dhiraj-sardar-321574281/)
 
 ---
@@ -44,7 +44,7 @@
 > 📌 Role-based system with student, teacher, and admin dashboards  
 > 📊 Boosted efficiency by 30%, reduced retrieval time by 40%
 
-[View on GitHub](https://github.com/Dhiraj706Sardar/cms)
+[🔗 View on GitHub](https://github.com/Dhiraj706Sardar/cms)
 
 ---
 
@@ -53,7 +53,7 @@
 > 📥 Dynamic PDF generation, mobile responsive UI  
 > 📉 Cut manual errors by 50%
 
-[View on GitHub](https://github.com/DhirajSardar/invoice-generator)
+[🔗 View on GitHub](https://github.com/DhirajSardar/invoice-generator)
 
 ---
 
@@ -62,7 +62,7 @@
 > 📈 Real-time neuroscience dashboard  
 > 🔍 Improved user experience by 35% and reduced load time by 20%
 
-[View Demo](https://dhirajsardar.github.io/neuroverse-react-app/)
+[🔗 View Demo](https://dhirajsardar.github.io/neuroverse-react-app/)
 
 ---
 
