@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Sardar</h1>
-<h3 align="center">🚀 A Passionate Java Backend Developer from Bengaluru, India</h3>
+<h3 align="center">🚀 A Passionate Backend Developer & DevOps Engineer from Bengaluru, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Java+Developer+%7C+Spring+Boot+%7C+React+%7C+MySQL+%7C+Docker;I+build+fast%2C+scalable%2C+clean+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI+%7C+SQLAlchemy+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Recent graduate in Information Science (85%)  
-- 💻 Java Developer focused on scalable backend apps with Spring Boot  
-- ☁️ Cloud, AI/ML, and DevOps enthusiast  
-- ✍️ [LinkedIn Portfolio](https://www.linkedin.com/in/dhiraj-sardar-321574281/)  
-- 📫 Email: **sardardhiraj706@gmail.com**
+- 🎓 Completed B.E. in Information Science (2025)  
+- 👨‍💻 Backend Developer & DevOps Engineer skilled in **Java (Spring Boot), Python (FastAPI), Hibernate, SQL, SQLAlchemy, SQLite, PostgreSQL**  
+- 🔧 Experienced with **DevOps & CI/CD tools:** Docker, Kubernetes, Jenkins, Git, and automated pipelines  
+- 💡 Passionate about building scalable, performant backend systems and streamlining deployment workflows  
+- 🌱 Continuously expanding knowledge in Microservices architecture and advanced DevOps practices  
+- 🎮 Gaming enthusiast and tech trends follower  
+- 📫 Reach me at: **sardardhiraj706@gmail.com**  
+- ✍️ [LinkedIn Portfolio](https://www.linkedin.com/in/dhiraj-sardar-321574281/)
 
 ---
 
@@ -22,12 +25,15 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF0000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
@@ -38,7 +44,7 @@
 > 📌 Role-based system with student, teacher, and admin dashboards  
 > 📊 Boosted efficiency by 30%, reduced retrieval time by 40%
 
-![College Management System](https://github.com/Dhiraj706Sardar/cms)
+[View on GitHub](https://github.com/Dhiraj706Sardar/cms)
 
 ---
 
@@ -47,7 +53,7 @@
 > 📥 Dynamic PDF generation, mobile responsive UI  
 > 📉 Cut manual errors by 50%
 
-![Invoice Generator App](https://github.com/DhirajSardar/invoice-generator)
+[View on GitHub](https://github.com/DhirajSardar/invoice-generator)
 
 ---
 
@@ -56,7 +62,7 @@
 > 📈 Real-time neuroscience dashboard  
 > 🔍 Improved user experience by 35% and reduced load time by 20%
 
- [NeuroVerse Web App] (https://dhirajsardar.github.io/neuroverse-react-app/)
+[View Demo](https://dhirajsardar.github.io/neuroverse-react-app/)
 
 ---
 
