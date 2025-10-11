@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Sardar</h1>
-<h3 align="center">🚀 Backend Developer & DevOps Enthusiast from Bengaluru, India</h3>
+<h3 align="center">🚀 Flutter Developer | Backend Engineer | DevOps Enthusiast from Bengaluru, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI+%7C+SQLAlchemy+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Flutter+%7C+Dart+%7C+Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Completed B.E. in Information Science (2025)  
-- 👨‍💻 Backend Developer & DevOps Engineer skilled in **Java (Spring Boot), Python (FastAPI), Hibernate, SQL, SQLAlchemy, SQLite, PostgreSQL**  
-- 🔧 Experienced with **DevOps & CI/CD tools:** Docker, Kubernetes, Jenkins, Git, and automated pipelines  
-- 💡 Passionate about building scalable backend systems and streamlining deployment workflows  
-- 🌱 Exploring Microservices architecture and advanced DevOps practices  
-- 🎮 Gaming enthusiast | Tech trend follower  
+- 💼 Currently working as a **Junior Flutter Developer at ZIL**  
+- 🎓 Completed **B.E. in Information Science (2025)**  
+- 👨‍💻 Skilled in **Flutter, Dart, Java (Spring Boot), Python (FastAPI), SQL, and PostgreSQL**  
+- 🔧 Experienced in **mobile app development**, backend APIs, and **DevOps tools** like Docker, Kubernetes, Jenkins, and Git  
+- 💡 Passionate about building **scalable mobile apps** and **robust backend systems**  
+- 🌱 Exploring **Microservices architecture** and **Flutter state management (Provider, BLoC)**  
+- 🎮 Gaming enthusiast | 📱 Tech trend follower  
 - 📫 Reach me: **sardardhiraj706@gmail.com**  
 - ✍️ [LinkedIn Portfolio](https://www.linkedin.com/in/dhiraj-sardar-321574281/)
 
@@ -22,9 +23,14 @@
 
 ### 🔧 Tech Stack
 
+#### 💻 Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### ⚙️ Backend & DevOps
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF0000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -38,6 +44,27 @@
 ---
 
 ### 🌟 Featured Projects
+
+#### 📱 Flutter App Projects
+
+##### 🥬 StayFresh – Smart Grocery Tracker
+> A Flutter mobile app that helps users track grocery items, monitor expiry dates, and receive notifications before items expire.  
+> Built using **Flutter + Firebase** with **MVVM architecture** and **Provider** state management.
+
+**🚀 Features:**
+- Smart inventory management (manual + barcode scanning)  
+- Expiry tracking with color-coded status  
+- Push notifications 2 days before expiry  
+- Firebase Auth & Firestore for data persistence  
+- Offline support with cloud sync  
+- Material 3 design and responsive UI  
+
+**🛠 Tech Stack:**  
+Flutter · Dart · Firebase (Auth, Firestore, Cloud Messaging) · Provider · flutter_barcode_scanner · flutter_local_notifications  
+
+[🔗 View on GitHub](https://github.com/Dhiraj706Sardar/stayfresh)
+
+---
 
 #### 📘 College Management System
 > 🛠️ Spring Boot + MySQL + React  
@@ -96,4 +123,5 @@
 <p align="center">
   <a href="mailto:sardardhiraj706@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dhiraj-sardar-321574281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/DhirajSardar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
