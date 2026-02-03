@@ -46,48 +46,37 @@
 ![MVVM](https://img.shields.io/badge/MVVM-3C9EE7?style=for-the-badge&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-FF5733?style=for-the-badge&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-00A859?style=for-the-badge&logoColor=white)
-![REST%20API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![Clean%20Architecture](https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge&logoColor=white)
-![Scalable%20System%20Design](https://img.shields.io/badge/Scalable%20System%20Design-FFB300?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge&logoColor=white)
+![Scalable System Design](https://img.shields.io/badge/Scalable%20System%20Design-FFB300?style=for-the-badge&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloud%20Deployment](https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
----
-
-### 🧩 Architectural Highlights
-
-- 🧠 Designed and implemented **modular, clean architectures** for Flutter and Java-based applications  
-- ⚙️ Architected **Spring Boot microservices** with layered structures, API gateways, and security filters  
-- 🚀 Optimized **backend performance** by implementing caching, async processing, and efficient DB queries  
-- ☁️ Automated **CI/CD pipelines** for faster and more reliable deployments  
-- 🔐 Integrated **secure authentication flows** using JWT and Firebase Auth  
+![Cloud Deployment](https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
 ### 🌟 Featured Projects
 
+#### 🛒 ShopStack Pro – Full-Stack E-Commerce Ecosystem
+> Production-ready platform with Spring Boot, React, Stripe Payments, Redis Caching, and Dockerized deployment.  
+> Demonstrates **secure JWT authentication**, **multi-role access**, and **CI/CD automation**.
+
+[🔗 View on GitHub](https://github.com/Dhiraj706Sardar/ShopStack-Pro---Full-Stack-E-commerce-Ecosystem)
+
 #### 🥬 StayFresh – Smart Grocery Tracker
-> A Flutter app to track grocery items, monitor expiry dates, and send notifications before items expire.  
+> Flutter app to track grocery items and monitor expiry dates with notifications.  
 > Built with **MVVM architecture**, **Provider**, and **Firebase integration**.
 
 [🔗 View on GitHub](https://github.com/Dhiraj706Sardar/stayfresh)
 
 #### 📘 College Management System
-> Spring Boot + MySQL + React — a role-based platform for students, teachers, and admins.  
-> Improved efficiency and reduced data retrieval time by 40%.
+> Spring Boot + MySQL + React — role-based platform for students, teachers, and admins.
 
 [🔗 View on GitHub](https://github.com/Dhiraj706Sardar/cms)
 
 #### 📄 Invoice Generator App
-> React + Tailwind + jsPDF — dynamic PDF generation with responsive design.  
-> Reduced manual invoicing errors by 50%.
+> React + Tailwind + jsPDF — dynamic PDF generation with responsive design.
 
 [🔗 View on GitHub](https://github.com/DhirajSardar/invoice-generator)
-
-#### 🧠 NeuroVerse Web App
-> React + Chart.js — neuroscience dashboard with lazy loading and analytics visualization.
-
-[🔗 View Demo](https://dhirajsardar.github.io/neuroverse-react-app/)
 
 ---
 
@@ -103,7 +92,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhirajsardar&theme=highcontrast" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajsardar&theme=highcontrast" />
 </p>
 
 ---
