@@ -83,8 +83,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirajsardar&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajsardar&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhirajSardar&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajSardar&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
@@ -92,7 +92,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajsardar&theme=highcontrast" />
+  <img src="https://streak-stats.demolab.com/?user=DhirajSardar&theme=highcontrast" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhirajsardar&theme=darkhub&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DhirajSardar&theme=darkhub&column=6" />
 </p>
 
 ---
