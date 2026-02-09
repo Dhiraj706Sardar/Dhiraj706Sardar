@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Currently working as a **Junior Flutter Developer at ZIL**  
+- 💼 Currently working as a **Flutter Developer at ZIL**  
 - 🏗️ Experienced **Java Application Architect** with a strong foundation in designing **scalable backend systems**  
 - 🎓 Completed **B.E. in Information Science (2025)**  
 - 👨‍💻 Skilled in **Flutter, Dart, Java (Spring Boot), Python (FastAPI), SQL, and PostgreSQL**  
